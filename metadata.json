@@ -1,0 +1,6 @@
+{
+  "name": "FriendSquad - WhatsApp Chat & Shared Photo Album",
+  "description": "A WhatsApp-style chat and shared media album application for close friends with password-only login, group and direct messaging, admin controls, and downloadable shared albums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
